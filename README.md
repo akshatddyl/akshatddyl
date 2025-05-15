@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Enthusiast
 -------------
 
-😊 Hi, I’m @akshatddyl, freshie🐣 @ cse💻🗿 👀 I’m interested in AI🤖, Embedded Systems👨‍💻 and integrating both :) / Edge AI and Computing⚡ 😄 Pronouns: He/Him
+😊 Hi, I’m @akshatddyl, freshie🐣 @ cse💻🗿 👀 I’m interested in AI🤖, Embedded Systems👨‍💻 and integrating both :) / Edge AI and Computing⚡ 
+😄 Pronouns: He/Him
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akshatdhondiyal14@gmail.com](mailto:akshatdhondiyal14@gmail.com)
-* 🧠  I'm learning Data Pre-Processing and Machine Learning
-* 🤝  I'm open to collaborating on Projects where python and its various libraries are involved!
 * ⚡  I also like Competitive Programming
 
 ### Skills
