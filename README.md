@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Enthusiast
 -------------
 
-😊 Hi, I’m @akshatddyl, freshie🐣 @ cse💻🗿 👀 I’m interested in AI🤖, Embedded Systems👨‍💻 and integrating both :) / Edge AI and Computing⚡ 
+😊 Hi, I’m @akshatddyl, sophie @ cse💻🗿 👀 I’m interested in AI🤖, Embedded Systems👨‍💻 and integrating both :) / Edge AI and Computing⚡ 
 😄 Pronouns: He/Him
 
 * 🌍  I'm based in India
