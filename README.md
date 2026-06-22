@@ -78,4 +78,3 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/akshatddyl?theme=light&font=Pangolin&ext=contest)
 
 ---
-## Flagship Projects:
