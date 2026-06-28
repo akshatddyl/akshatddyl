@@ -20,9 +20,16 @@
 ---
 ## 🏆 Competitive Programming
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akshatddyl" width="300"/>
-  <img src="https://codechef-readme-stats.onrender.com/akshat_newhere?v=1" width="300"/>
-  <img src="https://leetcard.jacoblin.cool/akshatddyl?theme=light&font=Pangolin&ext=contest" width="300"/>
-</p>
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akshatddyl" width="320"/>
+    </td>
+    <td align="center">
+      <img src="https://codechef-readme-stats.onrender.com/akshat_newhere?v=1" width="320"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/akshatddyl?theme=light&font=Pangolin&ext=contest" width="320"/>
+    </td>
+  </tr>
+</table>
