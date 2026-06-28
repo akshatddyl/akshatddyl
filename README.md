@@ -23,6 +23,17 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://codeforces.com/profile/akshatddyl"><b>Codeforces</b></a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/akshat_newhere"><b>CodeChef</b></a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/akshatddyl/"><b>LeetCode</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akshatddyl" width="320"/>
     </td>
     <td align="center">
