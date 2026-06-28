@@ -18,8 +18,11 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatddyl&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
-## 🏆Competitive Programming
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=akshatddyl)
-![LeetCode Stats](https://leetcard.jacoblin.cool/akshatddyl?theme=light&font=Pangolin&ext=contest)
+## 🏆 Competitive Programming
 
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akshatddyl" width="300"/>
+  <img src="https://codechef-readme-stats.onrender.com/akshat_newhere?v=1" width="300"/>
+  <img src="https://leetcard.jacoblin.cool/akshatddyl?theme=light&font=Pangolin&ext=contest" width="300"/>
+</p>
 ---
